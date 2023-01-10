@@ -1,0 +1,7 @@
+C:\Users\lucas\Cursos Alura C#\Csharp\ByteBank.SistemaAgencia\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
+C:\Users\lucas\Cursos Alura C#\Csharp\ByteBank.SistemaAgencia\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\Users\lucas\Cursos Alura C#\Csharp\ByteBank.SistemaAgencia\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\lucas\Cursos Alura C#\Csharp\ByteBank.SistemaAgencia\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.AssemblyReference.cache
+C:\Users\lucas\Cursos Alura C#\Csharp\ByteBank.SistemaAgencia\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Cursos Alura C#\Csharp\ByteBank.SistemaAgencia\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\Users\lucas\Cursos Alura C#\Csharp\ByteBank.SistemaAgencia\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
